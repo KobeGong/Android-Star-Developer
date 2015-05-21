@@ -22,21 +22,21 @@ Many Android Star Developers' blog and git both at home and aboard.
 |hanyonglu|	 |	http://www.cnblogs.com/hanyonglu/|	Android动画与推送|
 |闷瓜蛋子|	 |	http://www.fookwood.com/|	云OS开发|
 |傲慢的上校	| |	http://blog.csdn.net/lilu_leo	| |
-youxiachai	https://github.com/youxiachai	 	 
-dodola	https://github.com/dodola	 	 
-Issacw0ng	https://github.com/Issacw0ng	http://imid.me	 
-mcxiaoke	https://github.com/mcxiaoke	 	 
-soarcn	https://github.com/soarcn	 	 
-谦虚的天下	 	http://www.cnblogs.com/qianxudetianxia/	 
-李华明Himi	 	http://blog.csdn.net/xiaominghimi	 
-yangfuhai(海哥)	https://github.com/yangfuhai	http://www.zimeitix.com/	 
-张国威	 	http://blog.csdn.net/hellogv	 
-程序媛念茜	 	http://blog.csdn.net/yiyaaixuexi	 
-wangjinyu501	 	http://blog.csdn.net/wangjinyu501	 
-ASCE1885	 	http://blog.csdn.net/asce1885	 
-qinjuning	 	http://blog.csdn.net/qinjuning	 
-秋风的博客	 	http://blog.csdn.net/tangcheng_ok	 
-任玉刚	https://github.com/singwhatiwanna	http://blog.csdn.net/singwhatiwanna	Android开源
+|youxiachai|	|https://github.com/youxiachai|	| 	 
+|dodola|	https://github.com/dodola|	| 	| 
+|Issacw0ng|	https://github.com/Issacw0ng|	http://imid.me| |	 
+|mcxiaoke|	https://github.com/mcxiaoke	| | | 	 
+|soarcn|	https://github.com/soarcn| |	 	 |
+|谦虚的天下|	 |	http://www.cnblogs.com/qianxudetianxia/	 | |
+|李华明Himi|	| 	http://blog.csdn.net/xiaominghimi	 | |
+|yangfuhai(海哥)|	https://github.com/yangfuhai|	http://www.zimeitix.com/| |	 
+|张国威|	| 	http://blog.csdn.net/hellogv|	 |
+|程序媛念茜	 | |	http://blog.csdn.net/yiyaaixuexi| |	 
+|wangjinyu501|	| 	http://blog.csdn.net/wangjinyu501|	 |
+|ASCE1885|	 	|http://blog.csdn.net/asce1885	| |
+|qinjuning|	 	|http://blog.csdn.net/qinjuning	| |
+|秋风的博客||	 	http://blog.csdn.net/tangcheng_ok	| | 
+|任玉刚|	https://github.com/singwhatiwanna|	http://blog.csdn.net/singwhatiwanna|	Android开源|
 #国外：
 ######Avatar	Github	Blog	Description
 ######Google Android	https://github.com/google	http://android-developers.blogspot.com/	Google Android Developers Blog
