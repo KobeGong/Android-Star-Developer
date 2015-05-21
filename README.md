@@ -1,7 +1,7 @@
 # Android-Star-Developer
 Many Android Star Developers' blog and git both at home and aboard.
 
-国内：
+#国内：
 昵称	Github	博客	介绍
     邓凡平	 	http://blog.csdn.net/innost	阿拉神农
     魏祝林	 	http://blog.csdn.net/android_tutor	 
@@ -30,7 +30,7 @@ ASCE1885	 	http://blog.csdn.net/asce1885
 qinjuning	 	http://blog.csdn.net/qinjuning	 
 秋风的博客	 	http://blog.csdn.net/tangcheng_ok	 
 任玉刚	https://github.com/singwhatiwanna	http://blog.csdn.net/singwhatiwanna	Android开源
-国外：
+#国外：
 Avatar	Github	Blog	Description
 Google Android	https://github.com/google	http://android-developers.blogspot.com/	Google Android Developers Blog
 JakeWharton	https://github.com/JakeWharton	http://jakewharton.com/	ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife
