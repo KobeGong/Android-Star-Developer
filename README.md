@@ -9,6 +9,7 @@ Many Android Star Developers' blog and git both at home and aboard.
 
 #国内：
 |昵称	|Github |	博客	|介绍|
+| :-------- |:--------:| --------:| :--: |
 |邓凡平| |http://blog.csdn.net/innost|	阿拉神农|
 |魏祝林|	|http://blog.csdn.net/android_tutor| | 
 Trinea	https://github.com/trinea	http://www.trinea.cn/	性能优化 开源项目
