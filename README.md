@@ -8,9 +8,9 @@ Many Android Star Developers' blog and git both at home and aboard.
 | Pipe      |    1 USD | 234  |
 
 #国内：
-||昵称	||Github||	博客	||介绍||
-||邓凡平|| ||http://blog.csdn.net/innost||	阿拉神农||
-||魏祝林||	|| 	http://blog.csdn.net/android_tutor|| ||	 
+|昵称	|Github |	博客	|介绍|
+|邓凡平| |http://blog.csdn.net/innost|	阿拉神农|
+|魏祝林|	|http://blog.csdn.net/android_tutor| | 
 Trinea	https://github.com/trinea	http://www.trinea.cn/	性能优化 开源项目
 halzhang	https://github.com/halzhang	http://www.cnblogs.com/halzhang	StartNews作者
 wyouflf	https://github.com/wyouflf	http://my.oschina.net/u/1171837	xUtils作者
