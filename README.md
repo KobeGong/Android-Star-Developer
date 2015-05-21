@@ -36,9 +36,10 @@ Many Android Star Developers' blog and git both at home and aboard.
 |Avatar|	Github|	Blog|	Description|
 | :-------- |:--------| :--------| :--: |
 |Google Android|	https://github.com/google|	http://android-developers.blogspot.com/	|Google Android Developers Blog|
-|JakeWharton|	https://github.com/JakeWharton|	http://jakewharton.com/	|ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife|
 |Square	|https://github.com/square|	http://square.github.io/|	okhttp, fest-android, android-times-square, picasso, dagger, spoon|
+|Facebook|	https://github.com/facebook|	https://code.facebook.com/mobile	|Buck, ATC, Stetho, shimmer-android,fa-adb,conceal,rebound|
 |Yalantis| https://github.com/Yalantis | http://www.yalantis.com | ContextMenu, Side Menu, Phoenix, FlipViewPager.Draco|
+|JakeWharton|	https://github.com/JakeWharton|	http://jakewharton.com/	|ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife|
 |Chris Banes	|https://github.com/chrisbanes|	http://chris.banes.me/|	ActionBar-PullToRefresh, PhotoView, Android-BitmapCache, Android-PullToRefresh|
 |Jeremy Feinstein|	https://github.com/jfeinstein10|	http://jeremyfeinstein.com/|	SlidingMenu, JazzyViewPager|
 |Sergey Tarasevich|	https://github.com/nostra13	|http://nostra13android.blogspot.com/|	Android-Universal-Image-Loader|
