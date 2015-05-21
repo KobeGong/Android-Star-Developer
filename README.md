@@ -3,9 +3,9 @@ Many Android Star Developers' blog and git both at home and aboard.
 
 #国内：
 昵称	Github	博客	介绍
-    邓凡平	 	http://blog.csdn.net/innost	阿拉神农
-    魏祝林	 	http://blog.csdn.net/android_tutor	 
-    Trinea	https://github.com/trinea	http://www.trinea.cn/	性能优化 开源项目
+邓凡平	 	http://blog.csdn.net/innost	阿拉神农
+魏祝林	 	http://blog.csdn.net/android_tutor	 
+Trinea	https://github.com/trinea	http://www.trinea.cn/	性能优化 开源项目
 halzhang	https://github.com/halzhang	http://www.cnblogs.com/halzhang	StartNews作者
 wyouflf	https://github.com/wyouflf	http://my.oschina.net/u/1171837	xUtils作者
 张兴业	 	http://blog.csdn.net/xyz_lmn	 
@@ -31,8 +31,8 @@ qinjuning	 	http://blog.csdn.net/qinjuning
 秋风的博客	 	http://blog.csdn.net/tangcheng_ok	 
 任玉刚	https://github.com/singwhatiwanna	http://blog.csdn.net/singwhatiwanna	Android开源
 #国外：
-Avatar	Github	Blog	Description
-Google Android	https://github.com/google	http://android-developers.blogspot.com/	Google Android Developers Blog
+######Avatar	Github	Blog	Description
+######Google Android	https://github.com/google	http://android-developers.blogspot.com/	Google Android Developers Blog
 JakeWharton	https://github.com/JakeWharton	http://jakewharton.com/	ActionBarSherlock, Android-ViewPagerIndicator, Nine Old Androids, butterknife
 Square	https://github.com/square	http://square.github.io/	okhttp, fest-android, android-times-square, picasso, dagger, spoon
 Chris Banes	https://github.com/chrisbanes	http://chris.banes.me/	ActionBar-PullToRefresh, PhotoView, Android-BitmapCache, Android-PullToRefresh
