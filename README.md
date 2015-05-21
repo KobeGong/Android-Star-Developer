@@ -1,10 +1,11 @@
 # Android-Star-Developer
 Many Android Star Developers' blog and git both at home and aboard.
 
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||
-|| 1900 || -10 || 25 ||
-|| 1910 || -15 || 30 ||
-|| 1920 || -10 || 32 ||
+| Item      |    Value | Qty  |
+| :-------- | --------:| :--: |
+| Computer  | 1600 USD |  5   |
+| Phone     |   12 USD |  12  |
+| Pipe      |    1 USD | 234  |
 
 #国内：
 ||昵称	||Github||	博客	||介绍||
