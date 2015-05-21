@@ -1,6 +1,11 @@
 # Android-Star-Developer
 Many Android Star Developers' blog and git both at home and aboard.
 
+|| *Year* || *Temperature (low)* || *Temperature (high)* ||
+|| 1900 || -10 || 25 ||
+|| 1910 || -15 || 30 ||
+|| 1920 || -10 || 32 ||
+
 #国内：
 ||昵称	||Github||	博客	||介绍||
 ||邓凡平|| ||http://blog.csdn.net/innost||	阿拉神农||
